@@ -3,6 +3,6 @@ Submission to the data bounty challenge
 
 Hi everyone :)
 
-please see the report.ppt, my submission to the data bounty program.
+Please see the report.ppt, my submission to the data bounty program.
 
-please let me know in case of questions.
+Based on exploratory analysis that shows strong variability across states and years in crop yields, I propose an implementation of a scalable, inexpensive and proven deep learning algo that brings a plethora of benefits. 
